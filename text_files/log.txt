@@ -1,0 +1,5 @@
+ERROR 2026-01-09 Disk is full
+INFO 2026-01-09 User logged in
+WARNING 2026-01-10 Low memory
+ERROR 2026-01-10 Invalid password
+HELLO WORLD
